@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="playgame">Play Game</string>
+    <string name="aboutgame">About Game</string>
+    <string name="welcome">Welcome to Tic Tac Toe\n</string>
+    <string name="description">Cilj igre je postaviti tri svoja simbola u nizu - horizontalno, vertikalno ili dijagonalno - pre nego što to učini protivnik</string>
+    <string name="pobednikX">Pobednik je X</string>
+    <string name="pobednikO">Pobednik je O</string>
+</resources>
